@@ -171,7 +171,7 @@ Retrieve full conversation history for a session.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/karanaawla1/SmartAssist-AI-Chatbot.git
+git clone https://github.com/Kshikha15/SmartAssist-AI-Chatbot.git
 cd SmartAssist-AI-Chatbot
 ```
 
@@ -233,9 +233,9 @@ docker run -p 8080:8080 \
 
 <div align="center">
 
-**Karan Aawla**
+**Kiran Shikha**
 
-[![GitHub](https://img.shields.io/badge/GitHub-karanaawla1-black?style=flat-square&logo=github)](https://github.com/karanaawla1)
+[![GitHub](https://img.shields.io/badge/GitHub-Kshikha15-black?style=flat-square&logo=github)](https://github.com/Kshikha15)
 
 </div>
 
